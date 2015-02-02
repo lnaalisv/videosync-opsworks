@@ -1,4 +1,4 @@
-name        "VideoSync"
+name        "videosync"
 description 'Example cookbook for MongoDB Berkshelf based install'
 maintainer  "Magneetto Media"
 license     "Apache 2.0"
